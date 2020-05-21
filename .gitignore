@@ -1,4 +1,6 @@
 *.gz
+*.new
+*.old
 *.pyc
 *.tsv
 __pycache__
